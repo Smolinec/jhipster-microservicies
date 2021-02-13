@@ -1,0 +1,22 @@
+{
+  "name": "Role",
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "changelogDate": "20210213233343",
+  "entityTableName": "role",
+  "dto": "no",
+  "pagination": "no",
+  "service": "serviceImpl",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "clientRootFolder": "JhipsterMicroservicies",
+  "applications": "*",
+  "microserviceName": "JhipsterMicroservicies"
+}
